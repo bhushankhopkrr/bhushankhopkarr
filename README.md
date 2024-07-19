@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast | Student | B.E. Computer Science & Engineering (AI & ML)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bhushankhopkrr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 - 🔭 Currently working on: -
@@ -35,12 +35,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkarr&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushankhopkrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkrr&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🔝 Top Contributed Repositories:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhushankhopkarr&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=bhushankhopkrr&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
