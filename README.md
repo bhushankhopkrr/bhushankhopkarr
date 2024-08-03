@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-%23FFFFFF.svg?style=for-the-badge&logo=Keras&logoColor=red" alt="Keras" />
+  <img src="https://img.shields.io/badge/javascript-%23007396.svg?style=for-the-badge&logo=javascript&logoColor=%23FFD700" alt="JavaScript" />
 </p>
 
 ## 📊 GitHub Stats:
